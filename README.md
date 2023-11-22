@@ -2,6 +2,7 @@
 
 <div  align="center" style="margin-bottom:100px;">
   <img width=36% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Guilherme-Calheiros&show_icons=true&theme=radical&layout=compact" />
+  <img width="40%"align="center" src=https://github-readme-stats.vercel.app/api?username=Guilherme-Calheiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
