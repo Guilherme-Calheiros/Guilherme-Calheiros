@@ -14,6 +14,7 @@ Tenho 21 anos, sou do Rio de Janeiro e me formei em Análise e Desenvolvimento d
   <img align="left"alt="PHP" height="30" style="padding-right: 16px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="left" alt="MySQL" height="30" style="padding-right: 16px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="left" alt="Git" height="30" style="padding-right: 16px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="left" alt="Node.js" height="30" style="padding-right: 16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
 
 <br/>
 
